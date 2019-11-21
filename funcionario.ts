@@ -9,7 +9,7 @@ namespace empresa{
         }
 
         public setCodFuncionario(codigo:number){
-            this._codFuncionario - codigo;
+            this._codFuncionario = codigo;
         }
 
         public getSetor(){

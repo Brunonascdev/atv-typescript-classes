@@ -10,7 +10,7 @@ namespace empresa{
         }
 
         public setCodCliente(codigo:number){
-            this._codCliente - codigo;
+            this._codCliente = codigo;
         }
 
         public getCredito(){
